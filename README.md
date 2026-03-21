@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Subhra1432
-- 👀 I’m interested in Cloud Comupting
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email- subhrakantabehera691@gmail.com
+- Hi, I’m @Subhra1432
+- I’m interested in Cloud Comupting
+- I’m currently learning AWS
+- I’m looking to collaborate on ...
+- How to reach me email- subhrakantabehera691@gmail.com
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...--->
 
