@@ -18,15 +18,13 @@ Hi, I’m @Subhra1432<br>I’m interested in Cloud Comupting<br>I’m currently 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy-git-masterrstaa-rickstaa.vercel.app/?username=Subhra1432&theme=tokyonight&no-frame=true)
+![Trophies](https://github-profile-trophy-git-masterrstaa-rickstaa.vercel.app/?username=Subhra1432&theme=tokyonight&no-frame=true&margin-w=10)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
-<a href="https://github.com/Subhra1432">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhra1432&repo=YOUR_REPO_NAME&theme=tokyonight" />
-</a>
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=Subhra1432&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Subhra1432&icon=0&color=0)](https://visitcount.itsvg.in)
