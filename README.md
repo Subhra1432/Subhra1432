@@ -10,10 +10,14 @@ Hi, I’m @Subhra1432<br>I’m interested in Cloud Comupting<br>I’m currently 
 ## 📊 GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=Subhra1432&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
+![Streak](https://streak-stats.demolab.com?user=Subhra1432&theme=tokyonight&cache_seconds=86400)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhra1432&layout=compact&theme=tokyonight&cache_seconds=86400)
 
+---
+
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Subhra1432&theme=tokyonight&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Subhra1432&theme=tokyonight&margin-w=10&no-frame=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
