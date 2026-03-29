@@ -23,9 +23,8 @@ Hi, I’m @Subhra1432<br>I’m interested in Cloud Comupting<br>I’m currently 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=Subhra1432&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+## 🔝 Top Contributed Repo
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Subhra1432&repo=REPO_NAME&theme=tokyonight)](https://github.com/Subhra1432/REPO_NAME)
 ---
 [![](https://visitcount.itsvg.in/api?id=Subhra1432&icon=0&color=0)](https://visitcount.itsvg.in)
 
