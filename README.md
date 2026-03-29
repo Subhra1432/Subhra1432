@@ -18,7 +18,7 @@ Hi, I’m @Subhra1432<br>I’m interested in Cloud Comupting<br>I’m currently 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Subhra1432&theme=tokyonight&no-frame=true)
+![Trophies](https://github-profile-trophy-git-main.vercel.app/?username=Subhra1432&theme=tokyonight&no-frame=true&margin-w=10)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
