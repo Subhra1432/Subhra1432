@@ -1,9 +1,24 @@
-# 💫 About Me:
-Hi, I’m @Subhra1432<br>I’m interested in Cloud Comupting<br>I’m currently learning AWS<br>I’m looking to collaborate on ...<br>How to reach me email- subhrakantabehera691@gmail.com
+# Hi there, I'm Subhrakanta Behera
 
+A developer focused on Cloud Computing, Machine Learning, and building scalable systems. I aim to bridge theoretical knowledge with practical, real-world applications.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Subhra1432) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Subhrakanta-Behera) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:SUBHRAKANTABEHERA691@GMAIL.COM) 
+---
+
+## About Me
+
+* Currently exploring AWS and cloud technologies
+* Interested in Machine Learning and AI systems
+* Focused on building real-world, impactful projects
+* Open to collaboration and new opportunities
+
+---
+
+## My Focus
+
+* Cloud Engineering: Designing scalable and reliable systems
+* Machine Learning: Building and optimizing intelligent models
+* Problem Solving: Strengthening data structures and algorithms
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
