@@ -54,9 +54,7 @@ A developer focused on Cloud Computing, Machine Learning, and building scalable 
 
 ## Top Contributed Repo
 
-<a href="https://github.com/Subhra1432/rl-mini-game-env">
-  <img src="https://raw.githubusercontent.com/Subhra1432/rl-mini-game-env/main/assets/openenv-banner.png" width="100%" />
-</a>
+[![Repo](https://raw.githubusercontent.com/Subhra1432/Subhra1432/main/assets/openenv-banner.png)](https://github.com/Subhra1432/rl-mini-game-env)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Subhra1432) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SubhrakantaBehera908) 
