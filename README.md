@@ -20,7 +20,7 @@ A developer focused on Cloud Computing, Machine Learning, and building scalable 
 * Problem Solving: Strengthening data structures and algorithms
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
@@ -37,7 +37,7 @@ A developer focused on Cloud Computing, Machine Learning, and building scalable 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Subhra1432&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Subhra1432&layout=compact&theme=tokyonight)
@@ -46,14 +46,14 @@ A developer focused on Cloud Computing, Machine Learning, and building scalable 
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![Trophies](https://github-profile-trophy-git-masterrstaa-rickstaa.vercel.app/?username=Subhra1432&theme=tokyonight&no-frame=true&margin-w=10)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-## 🔝 Top Contributed Repo
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Subhra1432&repo=REPO_NAME&theme=tokyonight)](https://github.com/Subhra1432/REPO_NAME)
+## Top Contributed Repo
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Subhra1432&repo=rl-mini-game-env&theme=tokyonight)](https://github.com/Subhra1432/rl-mini-game-env)
 ---
 [![](https://visitcount.itsvg.in/api?id=Subhra1432&icon=0&color=0)](https://visitcount.itsvg.in)
 
