@@ -47,7 +47,7 @@ A developer focused on Cloud Computing, Machine Learning, and building scalable 
 ---
 
 ## GitHub Trophies
-![Trophies](https://github-profile-trophy-git-masterrstaa-rickstaa.vercel.app/?username=Subhra1432&theme=tokyonight&no-frame=true&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Subhra1432&theme=darkhub&no-frame=true&margin-w=10)
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
