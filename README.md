@@ -37,12 +37,8 @@ A developer focused on Cloud Computing, Machine Learning, and building scalable 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-## GitHub Stats:
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Subhra1432&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Subhra1432&layout=compact&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=Subhra1432&theme=tokyonight)
+## GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Subhra1432&show_icons=true&theme=tokyonight)
 
 ---
 
